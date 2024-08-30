@@ -1,3 +1,4 @@
 Name: Diether J A. Labis    
 Course: IT20A   
 Activity: Basics of Git and GitHub
+added demo
